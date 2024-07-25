@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @pdrqno
+- 👀 I’m interested in data analysis, machine learning, and technology.
+- 🌱 I’m currently learning Python, SQL, and data visualization techniques.
+- 💞️ I’m looking to collaborate on open-source projects related to data science and analytics.
+- 📫 How to reach me: pedrogiovaniaquino@icloud.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love playing League of Legends and I am an avid follower of CBLOL.
